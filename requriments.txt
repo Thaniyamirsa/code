@@ -1,5 +1,5 @@
 flask
 gunicorn
 pandas
-google_generativeai
+google-generativeai
 python-dotenv
